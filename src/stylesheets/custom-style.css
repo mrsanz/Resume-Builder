@@ -1,15 +1,11 @@
-body {
-     content: element(header);
-}
-
-div.header { position: running(header); }
-
-
-/* Add some whitespace */
+/* Add some whitespace in the header */
 .detail { margin-top: 20px; }
 
 /* Manually add a page break in the right spot - need to edit this for your own */
-/*#design-consultant-freelance-developer-portland-or-_2009-2013_ { page-break-before: always; }*/
+/* was setup to do this
+   #design-consultant-freelance-developer-portland-or-_2009-2013_ { page-break-before: always; }
+
+   but this solution is so much better! */
 
 p, li {
     page-break-after: avoid;
