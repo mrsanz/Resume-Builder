@@ -14,6 +14,6 @@ Through my personal and professional experiences, I have:
 
 In short, I enable teams to deliver impressive on time results with an infectious passion for solving challenging problems.
  
-I am eager to hear back from you and I can be reached at your earliest convenience on my cell phone, 503-333-1268.
+I am available for interviews at your request and look forward to speaking with you at your earliest convenience.  Thank you for your time and consideration.
 
-Loren
+Loren Sanz
