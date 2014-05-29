@@ -1,0 +1,16 @@
+body {
+     content: element(header);
+}
+
+div.header { position: running(header); }
+
+
+/* Add some whitespace */
+.detail { margin-top: 20px; }
+
+/* Manually add a page break in the right spot - need to edit this for your own */
+/*#design-consultant-freelance-developer-portland-or-_2009-2013_ { page-break-before: always; }*/
+
+p, li {
+    page-break-after: avoid;
+}
