@@ -1,4 +1,3 @@
-*******************
 ###Skills and Technologies
 **Languages:** JavaScript, HTML, CSS, XML, ActionScript, PHP, Java, Ruby  
 **Frameworks:** AngularJS, Sencha ExtJs, Ionic, Adobe Flex, Wordpress, CodeIgniter, CakePHP, Rails  

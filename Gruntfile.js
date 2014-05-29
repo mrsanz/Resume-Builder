@@ -12,8 +12,9 @@ module.exports = function(grunt) {
     markdown : {
         all: {
             files: [{
-                    expand: false,
-                    src: 'src/*.md',
+                    expand: true,
+                    cwd:'src/',
+                    src: '*.md',
                     dest: 'build/',
                     ext: '.html'
                 }
@@ -22,39 +23,6 @@ module.exports = function(grunt) {
                 template: 'src/template.jst'
             }
         }    
-    },
-//      
-//    marked: {
-//        resume: {
-//            files: {
-//                src  : 'src/resume.md',
-//                dest : 'build/resume-raw.html'
-//            }
-//        },
-//         cover: {
-//            files: {
-//                  src  : 'src/coverletter.md',
-//                 dest : 'build/coverletter-raw.html'
-//            }
-//        }
-//    },
-    concat: {
-        files: {
-            src : ['src/header.html','build/resume-raw.html','src/footer.html'],
-            dest : 'build/resume.html'
-        }
-    },
-    prettify: {
-         options : {
-              "indent": 4,
-              "condense": true,
-              "indent_inner_html": true
-        },
-        files: {
-            src: 'build/resume.html' ,
-            dest: 'build/index.html'
-        }
-       
     },
     copy : {
             files: {
@@ -66,13 +34,12 @@ module.exports = function(grunt) {
         
     },
     clean : {
-        build: ['build'],
-        cleanup: ['build/resume.html','build/resume-raw.html']
+        build: ['build']
     }
       
 
   });
 
-  grunt.registerTask('default', ['clean:build', 'marked', 'concat', 'prettify', 'copy', 'clean:cleanup']);
+  grunt.registerTask('default', ['clean:build', 'markdown','copy']);
 
 };
