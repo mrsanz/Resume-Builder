@@ -1,10 +1,10 @@
 ###Skills and Technologies
-**Languages:** JavaScript, HTML, CSS, XML, ActionScript, PHP, Java, Ruby  
-**Frameworks:** AngularJS, Sencha ExtJs, Ionic, Adobe Flex, Wordpress, CodeIgniter, CakePHP, Rails  
+**Languages:** JavaScript, HTML, CSS, XML, ActionScript, Ruby, Java  
+**Frameworks:** AngularJS, Sencha ExtJs, Ionic, Adobe Flex, Wordpress, CodeIgniter 
 **Testing:** Cucumber, Jasmine, Karma, Gherkin, Capybara  
 **Libraries:** Express, JQuery, Skeleton, Handlebars  
 **Methodologies:** Agile, Scrum, Waterfall, Object Oriented Development  
-**Automation:** Grunt, Ant, Sencha Cmd, Maven, Shell Scripting, Groc, Bower, NPM    
+**Automation:** Grunt, Ant, Sencha Cmd, Maven, Shell Scripting, Groc, Bower, Gulp, NPM, Yeoman    
 **Tools:** Illustrator, Photoshop, InDesign, Flash, JetBrains Idea, Eclipse IDE, Zsh    
 **CVS:** Git, Git-Flow, SVN  
 **Database:** MySQL, PostgreSQL, SQLite, Web SQL, Oracle  
@@ -17,15 +17,15 @@
 
 #####Engineering Manager _(2014 – Present)_  
 
-* Manages two geographically dispersed teams totaling 11 developers.  
-  * One team builds the application framework and sets coding standards that facilitate ongoing, revenue generating development related to Thetus Corporation’s core products.  
-  * The second team focuses on cutting edge innovation; creating new mobile applications and products that enable clients to rapidly capture and share event data for analytics.  
+* Manage three teams totaling up to 12 developers.
+   * Provides groomed stories along in partnership with product teams, to ensure that each team has at least two weeks of work they can perform. 
+   * Facilitates agile best practices, to ensure timely delivery of each team's feature.  
 * Meets with direct reports weekly to foster communication and growth, provide feedback, set and track progress against individual and team performance goals.
 * Implements a daily productivity hour dedicated to technical research to provide all team members with opportunities to enhance current skills, learn new skills, and grow personally and professionally.
 * Uses strong leadership to facilitate the promotion and recognition of his team resulting in the promotion of at least two team members each fiscal quarter.  
 * Collaborates across divisions including Design, Product, Business, Customer Support and Operations to exceed contractual obligations worth over six million dollars.
 * Works closely with internal stakeholders and customers to satisfy customer needs and to guarantee that product development proceeds on scope according to schedule within the allocated budget  
-* Institutes best practices for testing and documentation to ensure feature requirements are met in the current and future releases.
+* Institutes best practices for various technologies, testing and documentation to ensure feature requirements are met in the current and future releases.
 
 
 #####Design Integration Lead *(2012 – 2014)*
