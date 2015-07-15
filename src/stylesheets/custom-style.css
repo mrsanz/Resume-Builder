@@ -1,5 +1,6 @@
 /* Add some whitespace in the header */
 .detail { margin-top: 20px; }
+h4 em { float:right }
 
 /* Manually add a page break in the right spot - need to edit this for your own */
 /* was setup to do this

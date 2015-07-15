@@ -1,40 +1,39 @@
 ###Skills and Technologies
-**Languages:** JavaScript, HTML, CSS, XML, ActionScript, Ruby, Java  
-**Frameworks:** AngularJS, Sencha ExtJs, Ionic, Adobe Flex, Wordpress, CodeIgniter 
-**Testing:** Cucumber, Jasmine, Karma, Gherkin, Capybara  
-**Libraries:** Express, JQuery, Skeleton, Handlebars  
+
 **Methodologies:** Agile, Scrum, Waterfall, Object Oriented Development  
-**Automation:** Grunt, Ant, Sencha Cmd, Maven, Shell Scripting, Groc, Bower, Gulp, NPM, Yeoman    
-**Tools:** Illustrator, Photoshop, InDesign, Flash, JetBrains Idea, Eclipse IDE, Zsh    
+**Languages:** JavaScript, HTML, CSS, XML, ActionScript, Ruby, Java  
+**Frameworks:** AngularJS, Sencha ExtJs, Ionic, Adobe Flex, Wordpress, CodeIgniter  
+**Testing:** Cucumber, Jasmine, Karma, Gherkin, Capybara   
+**Automation:** Grunt, Ant, Sencha Cmd, Maven, Shell Scripting, Groc, Bower, Gulp, 
+NPM, Yeoman, Swagger       
+**Tools:** Illustrator, Photoshop, InDesign, Flash, JetBrains Idea, Eclipse IDE, VI    
 **CVS:** Git, Git-Flow, SVN  
-**Database:** MySQL, PostgreSQL, SQLite, Web SQL, Oracle  
-**Servers:** Node, Apache, Tomcat  
+**Database:** MySQL, PostgreSQL, SQLite, Web SQL, Oracle, 
+MongoDB  
+**Servers:** Node, Apache, Tomcat
 
 *******************
 
 ###Experience
-####Thetus Corporation, Portland, OR, _2010 – Present_   
+####Thetus Corporation, Portland, OR _2010 – Present_   
 
-#####Engineering Manager _(2014 – Present)_  
+#####Engineering Manager *(2014 – Present)*  
 
-* Manage three teams totaling up to 12 developers.
-   * Provides groomed stories along in partnership with product teams, to ensure that each team has at least two weeks of work they can perform. 
-   * Facilitates agile best practices, to ensure timely delivery of each team's feature.  
-* Meets with direct reports weekly to foster communication and growth, provide feedback, set and track progress against individual and team performance goals.
-* Implements a daily productivity hour dedicated to technical research to provide all team members with opportunities to enhance current skills, learn new skills, and grow personally and professionally.
-* Uses strong leadership to facilitate the promotion and recognition of his team resulting in the promotion of at least two team members each fiscal quarter.  
-* Collaborates across divisions including Design, Product, Business, Customer Support and Operations to exceed contractual obligations worth over six million dollars.
-* Works closely with internal stakeholders and customers to satisfy customer needs and to guarantee that product development proceeds on scope according to schedule within the allocated budget  
-* Institutes best practices for various technologies, testing and documentation to ensure feature requirements are met in the current and future releases.
-
+* Manage execution and facilitate Agile best practices by working with teams to set realistic quality goals and deadlines for sprint work, ensuring progressive and timely delivery for each feature.  
+* Foster cross team collaboration by engaging peers across the organization by finding solutions that enable success for all parties.
+* Support individual team members by tracking successes against daily and quarterly goals.  As a result on average three of my team members have received public recognition and/or promotions each fiscal quarter.
+* Meet with individuals weekly to foster communication, growth, provide feedback, set and track progress against individual performance. 
+* Guide teams by ensuring each sprint has a clear direction and that feedback from the SCRUM retrospective is actionable.
+* Promote broader organizational growth by determining how individuals and teams impact the larger organizational goals in stakeholder demos. 
+* Work to promote best practices for engineering by providing recommendations as an active member on the Engineering Technology Governance council. 
+* Collaborate daily across Design, Product, Business, Customer Support and Operations to devliver contractual obligations worth over six million dollars.
 
 #####Design Integration Lead *(2012 – 2014)*
 
-* Led a team responsible for designing the core product’s visual style, providing professional services
+* Led a team responsible for designing the core product’s visual style, providing professional service
 contract support, and maintaining the Thetus Corporation’s website and intranet.
 * Created an HTML and Flex component library to standardize resources that improve developer efficiency, consistency and quality.
 * Defined an information architecture for the intranet to enrich communication across Thetus.
-* Redefined Thetus.com by restructuring and incorporating third party API's Salesforce.com, Jobvite, and Facebook, enabling Thetus to reach high profile clients and hire and retain top talent. 
 * Trained colleagues in Flex, JavaScript, CSS, HTML Document Object Model (DOM) Structure and Git best practices via workshops, mentoring, code review and paired programming which expanded team knowledge, implementation quality and self-efficacy across the organization.
 
 #####UI Developer *(2011 – 2012)*
@@ -46,18 +45,16 @@ citations, charts and maps.
 frameworks. 
 * Conceived and built custom Flex components used throughout an application suite which significantly reduced the time required for future development.
 
-#####Webmaster / Graphic Designer (2010 - 2011)
+#####Webmaster / Graphic Designer *(2010 - 2011)*
 
 * Produced work swiftly for custom branding and trade shows which drove new business and
 generated new customers.
-* Researched and implemented advanced JavaScript techniques which Improved the corporate
-website by increasing user adoption and engagement.
 * Generated interactive demos using Adobe Flash Catalyst that exhibited the features, benefits and
 advantages of Thetus’ platform which marketing and sales utilized to more effectively promote the
 platform.
  
 
-####Design Consultant Freelance Developer, Portland, OR, _2009 – 2013_
+####Design Consultant Freelance Developer, Portland, OR _2009 – 2013_
 
 * Enhanced user experience (UX) and user interface (UI) designs to meet and surpass client needs
 and requirements.
@@ -73,7 +70,7 @@ Photoshop techniques including motion and radial blurring, filling with�
 and auto-fill.
  
 
-####Account Manager, AT&T, Portland, OR, _2003 – 2009_
+####Account Manager, AT&T, Portland, OR _2003 – 2009_
 
 * Managed a portfolio of clients valued at $13M dollars annually
 * Initiated custom billing solutions to support complex customer projects, valued between $20M and

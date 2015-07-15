@@ -5,13 +5,12 @@ techmandu@gmail.com
 
 Skills and Technologies
 -----------------------
-**Languages:**  HTML, CSS, JavaScript, XML, ActionScript, PHP, Java, Ruby
-**Frameworks:**  AngularJS, Sencha ExtJs, Ionic, Adobe Flex, Wordpress, Code Igniter, Cake PHP, Rails  
-**Libraries:** Express, JQuery, Skeleton, Handlebars  
 **Methodologies:** Agile, Scrum, Waterfall, Object­Oriented Development  
-**Automation:** Ant, Sencha Cmd, Maven, Grunt, Shell Scripting, Groc
+**Languages:**  HTML, CSS, JavaScript, XML, ActionScript, PHP, Java, Ruby
+**Frameworks:**  AngularJS, Sencha ExtJs, JQuery, Skeleton, Handlbars, Ionic, Adobe Flex, Wordpress, Code Igniter, Cake PHP, Rails  
+**Automation:** Ant, Sencha Cmd, Maven, Grunt, Shell Scripting, Groc, Swagger
 **Tools:** Illustrator, Photoshop, InDesign, Flash, JetBrains Idea, Eclipse IDE
-CVS: Git, Git flow, SVN  
+CVS: Git, SVN  
 **Database:** MySQL, PostgreSQL, sqlite, Web SQL, Oracle  
 **Servers:** Node, Apache, Tomcat
 
@@ -21,16 +20,14 @@ Thetus Corporation, Portland, OR _2010 – Present_
 
 Engineering Manager _(2014 – Present)_  
 
-* Manages two geographically dispersed teams totaling 11 developers.  
-* One team articulates best practices and generates application framework standards that facilitate ongoing, revenue generating development related to Thetus Corporation’s core products.  
-* The second team focuses on cutting edge innovation; creating new mobile applications and products that enable clients to rapidly capture and share event data for timely analytics.
-* Implement a daily productivity hour dedicated to technical research to provide all team members with opportunities to enhance current skills, learn new skills, and grow personally and professionally. As a result of these practices, at least two team members have received promotions each fiscal quarter.
-* Meet with direct reports weekly to foster communication and growth, provide feedback, set and track
-progress against individual and team performance goals. 
-* Collaborates across divisions including Design, Product, Business, Customer Support and Operations to exceed contractual obligations worth over six million dollars.
-* Works closely with internal stakeholders and customers to satisfy customer needs and to guarantee that product development proceeds on scope according to schedule within the allocated budget 
-* Institutes best practices for testing and documentation to ensure feature requirements are met in the current and future releases.
-
+* Manage execution by working with teams to set realistic quality goals and deadlines for sprint work.
+* Foster cross team collaboration by engaging peers across the organization by finding solutions that enable success for all parties.
+* Support team members by ensuring that each indidividiual has daily and quarterly goals that they are tracking successes against these goals.  As a result on average three of my team members have recieved public recongition and/or promotions each fiscal quarter.
+* Meet with individuals weekly to foster communication, growth, provide feedback, set and track progress against individual performance. 
+* Guide teams by ensuring each project has a focus and that feedback is actionable.
+* Promote broader organizational growth by determining how individuals and teams impact the larger organizational goals in stakeholder demos. 
+* Work to promote best practices for engineering by providing recommentations as an active member on the Engineering Technology Governance council. 
+* Actively collaborate across divisions including Design, Product, Business, Customer Support and Operations to exceed contractual obligations worth over six million dollars.
 
 Design Integration Lead *(2012 – 2014)*
 
@@ -38,9 +35,8 @@ Design Integration Lead *(2012 – 2014)*
 contract support, and maintaining the Thetus Corporation’s website and intranet.
 * Created an HTML and Flex component library to standardize resources that improve developer efficiency, consistency and quality.
 * Defined an information architecture for the intranet to enrich communication across Thetus.
-Incorporated Jobvite, an applicant tracking and recruiting solution, on the corporate website to support improved hiring practices.  * re-write to focus on retaining and hiring better talent.
 --------
-* Trained development colleagues in Flex, JavaScript, CSS, HTML Document Object Model (DOM) Structure and Git best practices via workshops, mentoring, code review and paired programming
+* Trained developers in Flex, JavaScript, CSS, HTML Document Object Model (DOM) Structure and Git best practices via workshops, mentoring, code review and paired programming
 which expanded team knowledge, implementation and self-­efficacy across programming languages
 and frameworks
 
@@ -57,7 +53,8 @@ which significantly reduced the time required for future development.
 
 Webmaster / Graphic Designer (2010 ­ 2011)
 
-* Produced work swiftly for custom branding and trade shows which drove new business and
+* Developed the strategy and implementation for the Thetus.com Coporate website, integrating jobvite and salesforces, enabling thetus to retain and hire better talent, and to use the corporate webstie as a lead generation tool.
+Produced work swiftly for custom branding and trade shows which drove new business and
 generated new customers.
 * Researched and implemented advanced JavaScript techniques which Improved the corporate
 website by increasing user adoption and engagement.
